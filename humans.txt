@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrea Cossu	acossu@intesigroup.com	@abracabarba
 
 # THANKS
 
